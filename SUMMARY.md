@@ -1,4 +1,4 @@
 # Summary
 
-* [Part I](part1/README.md)
-* [Part II](part2/README.md)
+* [Part I](part-1/README.md)
+* [Part II](part-2/README.md)
